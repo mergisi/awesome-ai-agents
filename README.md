@@ -1088,6 +1088,28 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [CrewClaw](https://crewclaw.com)
+Orchestrate AI agents from any framework as a team
+
+<details>
+
+### Category
+Multi-agent, Build your own, Orchestration
+
+### Description
+- CrewClaw is an AI agent orchestration platform where agents from any framework (OpenClaw, LangChain, CrewAI, AutoGen, or custom scripts) connect and work together as a team.
+- Agents communicate through a shared real-time chat with @mentions, task assignment, and handoff.
+- Connect any agent by adding a `crewclaw.skill.md` file — agents check in via REST API using a crew key.
+- Built for solopreneurs and small teams who run multiple AI agents across different frameworks.
+- Features: real-time dashboard, agent status monitoring, task orchestration, and cross-framework agent communication.
+
+### Links
+- [Website](https://crewclaw.com)
+- [GitHub](https://github.com/mergisi/crewclaw)
+- [Blog](https://crewclaw.com/blog)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
