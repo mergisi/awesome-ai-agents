@@ -1088,24 +1088,26 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
-## [CrewClaw](https://crewclaw.com)
-Orchestrate AI agents from any framework as a team
+## [CrewClaw](https://crewclaw.com/?utm_source=awesome-ai-agents&utm_medium=readme)
+Generate a deploy-ready AI agent package from a form — no canvas, no SDK
 
 <details>
 
 ### Category
-Multi-agent, Build your own, Orchestration
+Build-your-own, No-code, Productivity, Multi-agent
 
 ### Description
-- CrewClaw is an AI agent orchestration platform where agents from any framework (OpenClaw, LangChain, CrewAI, AutoGen, or custom scripts) connect and work together as a team.
-- Agents communicate through a shared real-time chat with @mentions, task assignment, and handoff.
-- Connect any agent by adding a `crewclaw.skill.md` file — agents check in via REST API using a crew key.
-- Built for solopreneurs and small teams who run multiple AI agents across different frameworks.
-- Features: real-time dashboard, agent status monitoring, task orchestration, and cross-framework agent communication.
+- Form-based generator that produces a complete deploy package (Dockerfile, docker-compose, OpenClaw bot file, AGENTS.md, README) from a short configuration form — no canvas to learn, no SDK to install
+- 242+ agent role templates across 25 categories: brand monitor, competitor watch, SEO analyst, content writer, customer support, lead generator, code reviewer, and more
+- Channel-agnostic: Slack, Telegram, Discord, GitHub, email, webhook
+- Model-agnostic: Claude, GPT, Gemini, Ollama (local Gemma/Llama/Phi)
+- One-time pricing: $9 single agent, $19 starter (3 agents), $29 team bundle (5 agents + AGENTS.md coordination). No subscription.
+- Open-source agent template library at github.com/mergisi/awesome-openclaw-agents (2,050+ stars, 205 templates, MIT licensed)
 
 ### Links
-- [Website](https://crewclaw.com)
-- [GitHub](https://github.com/mergisi/crewclaw)
+- [Web](https://crewclaw.com/?utm_source=awesome-ai-agents)
+- [Agent Gallery](https://crewclaw.com/agents)
+- [Templates Repo](https://github.com/mergisi/awesome-openclaw-agents)
 - [Blog](https://crewclaw.com/blog)
 
 </details>
